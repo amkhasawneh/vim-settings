@@ -44,3 +44,13 @@ set si
 
 " Set background theme.
 set bg=dark
+
+" Set color scheme.
+" color slate
+
+" Map keys to enter my name upon hitting F2, and insert an unordered list using F3.
+map <F2> iAbdullah Khasawneh<CR><ESC>
+map <F3> i<ul><CR><Space><Space><li></li><CR><ESC>0i</ul><ESC>kcit
+map <F4> <Esc>o<li></li><Esc>cit
+" let mapleader=","
+" map <leader>w :w!<CR>
