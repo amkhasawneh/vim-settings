@@ -1,6 +1,10 @@
 " Keep 1000 items in history.
 set history=1000
 
+" Show matching parentheses .
+set showmatch
+
+
 " Show the cursor's position.
 set ruler
 
