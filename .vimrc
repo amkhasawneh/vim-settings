@@ -4,7 +4,6 @@ set history=1000
 " Show matching parentheses .
 set showmatch
 
-
 " Show the cursor's position.
 set ruler
 
